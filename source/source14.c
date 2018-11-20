@@ -8,3 +8,4 @@ int main()
         printf("student");
 return 0;
 }
+
