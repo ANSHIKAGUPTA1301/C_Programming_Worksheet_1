@@ -1,0 +1,4 @@
+//OUTPUT
+  it gives error
+    (because switch quantity is not an integer).
+    
