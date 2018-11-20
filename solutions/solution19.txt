@@ -1,0 +1,2 @@
+//OUTPUT
+    Case label is B
