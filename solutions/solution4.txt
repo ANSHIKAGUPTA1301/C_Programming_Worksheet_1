@@ -1,0 +1,3 @@
+//OUTPUT
+    it gives "syntax error"
+      (because else can only be used with an if and in if ,their is semicolon placed . So their is no body of if).
