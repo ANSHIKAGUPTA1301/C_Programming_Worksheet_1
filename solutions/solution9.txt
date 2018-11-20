@@ -1,0 +1,3 @@
+//OUTPUT
+    it gives "syntax error"
+      (because their is no body of if).
